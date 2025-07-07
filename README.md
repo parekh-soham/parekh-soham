@@ -1,6 +1,7 @@
 # Soham Parekh
 
 - CEO @ Soham as a Service (SaaS)
+- Trolling YC founders since 2018
 - Proficient in all programming languages that have and ever will exist
 - 10x engineer secretly working at your startup (and your competitor's startup too)
 
