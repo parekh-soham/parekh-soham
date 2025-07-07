@@ -1,6 +1,6 @@
 # Soham Parekh
 
-- 10x engineer secretly working at your startup (and your competsitor's startup too)
+- 10x engineer secretly working at your startup (and your competitor's startup too)
 
 [As seen on YouTube](https://www.youtube.com/watch?v=-_6dHIPVoTM)
 
