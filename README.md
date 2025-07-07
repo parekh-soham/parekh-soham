@@ -1,5 +1,7 @@
 # Soham Parekh
 
+- CEO @ Soham as a Service (SaaS)
+- Proficient in all programming languages that have and ever will exist
 - 10x engineer secretly working at your startup (and your competitor's startup too)
 
 [As seen on YouTube](https://www.youtube.com/watch?v=-_6dHIPVoTM)
