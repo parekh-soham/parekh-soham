@@ -3,6 +3,7 @@
 - Legendary software engineer
 - Trolling YC founders since 2018
 - CEO @ [Soham as a Service (SaaS)](https://github.com/soham-as-a-service)
+- Founding Engineer @ [Soham Parekh AI](https://www.thesohamparekh.com/)
 - Proficient in all programming languages that have and ever will exist
 - 10x engineer secretly working at your startup (and your competitor's startup too)
 - [Check out my guide on how to work multiple high-paying software engineering jobs all at once](https://github.com/parekh-soham/overemployment-guide)
